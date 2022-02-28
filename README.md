@@ -29,5 +29,5 @@ Meu nome é Karine, tenho 22 anos e moro na cidade de Santa Cruz de Minas/MG, so
 </div>
  --!>
 
+![Snake animation](https://github.com/karGuimaraes/karGuimaraes/blob/output/github-contribution-grid-snake.svg)
 
-![snake gif](https://github.com/karGuimaraes/karGuimaraes/blob/output/github-contribution-grid-snake.svg)
