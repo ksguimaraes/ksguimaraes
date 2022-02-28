@@ -27,7 +27,8 @@ Meu nome é Karine, tenho 22 anos e moro na cidade de Santa Cruz de Minas/MG, so
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karGuimaraes&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karGuimaraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
- --!>
+
 
 ![Snake animation](https://github.com/karGuimaraes/karGuimaraes/blob/output/github-contribution-grid-snake.svg)
 
+ --!>
