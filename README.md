@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-Meu nome é Karine, tenho 22 anos e moro na cidade de Santa Cruz de Minas/MG, sou graduada em Gestão da Tecnologia da Informação pelo Instituto Federal do Sudeste de Minas Gerais.
+Sou a Karine, tenho 22 anos e moro na cidade de Santa Cruz de Minas/MG, sou graduada em Gestão da Tecnologia da Informação pelo Instituto Federal do Sudeste de Minas Gerais.
 <p align= "center">
 <img src="/Octocat-Karine.png" height="300" />
 </p>
@@ -14,17 +14,18 @@ Meu nome é Karine, tenho 22 anos e moro na cidade de Santa Cruz de Minas/MG, so
 </div>
 
 ### Ferramentas e Tecnologias
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" title="HTML5"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" title="CSS3"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="Javascript"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" title="PHP"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" title="GIT"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/></code>
+<code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5"/></code>
+<code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3"/></code>
+<code><img src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap"/></code>
+<code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="Javascript"/></code>
+<code><img src="https://img.shields.io/badge/PHP-4E7DCD?style=for-the-badge&logo=PHP&logoColor=white" title="PHP"/></code>
+<code><img src="https://img.shields.io/badge/MySQL-4E7DCD?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/></code>
+<code><img src="https://img.shields.io/badge/GIT-D14836?style=for-the-badge&logo=git&logoColor=white" title="GIT"/></code>
+<code><img src="https://img.shields.io/badge/LINUX-F7DF1E?style=for-the-badge&logo=linux&logoColor=black" title="Linux"/></code>
 
 ### Estou aprendendo
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" title="React.js"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" title="Node.js"/></code>
+<code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React.js"/></code>
+<code><img src="https://img.shields.io/badge/Node.js-7DCD4E?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js"/></code>
 
 <!--
 <div>
