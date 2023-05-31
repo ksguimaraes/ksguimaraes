@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-Sou a Karine, tenho 22 anos e moro na cidade de Santa Cruz de Minas/MG, sou graduada em Gestão da Tecnologia da Informação pelo Instituto Federal do Sudeste de Minas Gerais.
+Sou a Karine, tenho 24 anos e moro na cidade de Santa Cruz de Minas/MG, sou graduada em Gestão da Tecnologia da Informação pelo Instituto Federal do Sudeste de Minas Gerais.
 <p align= "center">
 <img src="/Octocat-Karine.png" height="300" />
 </p>
