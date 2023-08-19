@@ -1,40 +1,26 @@
-## Hello World! 👋
+# Bem-vindo ao meu Perfil GitHub!
 
-Sou a Karine, tenho 24 anos e moro na cidade de Santa Cruz de Minas/MG, sou graduada em Gestão da Tecnologia da Informação pelo Instituto Federal do Sudeste de Minas Gerais.
-<p align= "center">
-<img src="/Octocat-Karine.png" height="300" />
-</p>
+Olá! 👋 Sou uma apaixonada desenvolvedora backend com uma forte afinidade por tecnologia e uma extensa experiência em PHP, Laravel e gerenciamento de bancos de dados, incluindo MySQL e PostgreSQL.
 
-### Contatos:
+## Sobre Mim
 
-<div>
-<a href="https://instagram.com/kar.guimaraes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href = "mailto:karsguimaraes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/karine-guimaraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>   
-</div>
+- 🔭 Atualmente tenho 24 anos e moro na cidade de São Paulo.
+- 🎓 Sou formada em Gestão da Tecnologia da Informação, o que me proporcionou uma base sólida em conceitos tecnológicos e de negócios.
+- 📚 Além disso, estou atualmente cursando uma pós-graduação em Ciência de Dados e Big Data, expandindo meus horizontes para o emocionante mundo analítico.
+- 🚀 Adoro enfrentar desafios e tenho uma paixão por transformar ideias em soluções concretas.
 
-### Ferramentas e Tecnologias
-<code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5"/></code>
-<code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3"/></code>
-<code><img src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap"/></code>
-<code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="Javascript"/></code>
-<code><img src="https://img.shields.io/badge/PHP-4E7DCD?style=for-the-badge&logo=PHP&logoColor=white" title="PHP"/></code>
-<code><img src="https://img.shields.io/badge/MySQL-4E7DCD?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/></code>
-<code><img src="https://img.shields.io/badge/GIT-D14836?style=for-the-badge&logo=git&logoColor=white" title="GIT"/></code>
-<code><img src="https://img.shields.io/badge/LINUX-F7DF1E?style=for-the-badge&logo=linux&logoColor=black" title="Linux"/></code>
+## Habilidades
 
-### Estou aprendendo
-<code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React.js"/></code>
-<code><img src="https://img.shields.io/badge/Node.js-7DCD4E?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js"/></code>
+- 💻 Minha especialização reside no desenvolvimento backend, onde utilizo principalmente PHP e Laravel para criar soluções robustas.
+- 🗃️ Tenho ampla experiência no trabalho com bancos de dados, incluindo MySQL e PostgreSQL, garantindo que os sistemas sejam eficientes e escaláveis.
 
-<!--
-<div>
-<a href="https://github.com/karGuimaraes">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karGuimaraes&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karGuimaraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## Colaboração e Oportunidades
 
+- 👥 Acredito firmemente no poder da colaboração para alcançar resultados excepcionais. Estou sempre aberta a trabalhar em equipe para enfrentar desafios emocionantes.
+- 🌟 Estou pronta e entusiasmada para embarcar em novos projetos e abraçar oportunidades que me permitam crescer como desenvolvedora e contribuir para soluções inovadoras.
 
-![Snake animation](https://github.com/karGuimaraes/karGuimaraes/blob/output/github-contribution-grid-snake.svg)
+## Contato
 
- --!>
+- 📬 Você pode entrar em contato comigo através do meu e-mail kagm2047@gmail.com para discutir colaborações, projetos ou apenas para trocar ideias interessantes.
+
+Estou ansiosa para continuar minha jornada de aprendizado e criação, e mal posso esperar para ver o que o futuro tecnológico reserva! 🚀🔍
