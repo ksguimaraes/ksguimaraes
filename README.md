@@ -25,6 +25,6 @@ Olá! 👋 Sou uma apaixonada desenvolvedora backend com uma forte afinidade por
 Estou ansiosa para continuar minha jornada de aprendizado e criação, e mal posso esperar para ver o que o futuro tecnológico reserva! 🚀🔍
 <div>
 <a href="https://instagram.com/kar.guimaraes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href = "mailto:karsguimaraes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href = "mailto:kagm2047@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/karine-guimaraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>   
 </div>
