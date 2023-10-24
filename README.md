@@ -11,7 +11,7 @@ Olá! 👋 Sou uma apaixonada desenvolvedora back-end com uma forte afinidade po
 
 ## Habilidades
 
-- 💻 Minha especialização reside no desenvolvimento backend, onde utilizo principalmente PHP e Laravel para criar soluções robustas.
+- 💻 Minha especialização reside no desenvolvimento back-end, onde utilizo principalmente PHP e Laravel para criar soluções robustas.
 - 🗃️ Tenho ampla experiência no trabalho com bancos de dados, incluindo MySQL e PostgreSQL, garantindo que os sistemas sejam eficientes e escaláveis.
 
 ## Colaboração e Oportunidades
