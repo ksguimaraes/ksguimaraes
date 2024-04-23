@@ -22,8 +22,6 @@ Sou apaixonada por desenvolvimento <b>back-end</b>, em 4 anos de experiência at
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="30px" height="30px"></a>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karGuimaraes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 ## 📬 Contato
