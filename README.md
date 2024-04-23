@@ -1,6 +1,6 @@
 # Hello World!
 
-Olá! 👋 Sou uma apaixonada desenvolvedora back-end com uma forte afinidade por tecnologia e uma extensa experiência em PHP, Laravel e gerenciamento de bancos de dados, incluindo MySQL e PostgreSQL.
+Sou apaixonada por desenvolvimento <b>back-end</b>, em 4 anos de experiência atuei com diferentes tecnologias com destaque para <b>Laravel/PHP</b>, <b>Node.js/TypeScript</b>, <b>Spring Boot/java</b> e <b>.net/C#</b>.
 
 ## Sobre Mim
 
@@ -9,22 +9,25 @@ Olá! 👋 Sou uma apaixonada desenvolvedora back-end com uma forte afinidade po
 - 📚 Além disso, estou atualmente cursando uma pós-graduação em Ciência de Dados e Big Data, expandindo meus horizontes para o emocionante mundo analítico.
 - 🚀 Adoro enfrentar desafios e tenho uma paixão por transformar ideias em soluções concretas.
 
-## Habilidades
+## 💼 Habilidades & Experiência
+<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="30px" height="30px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="30px" height="30px"></a>
+<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="30px" height="30px"></a>
+<a href="https://php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="30px" height="30px"></a>
+<a href="https://laravel.com/" title="Laravel"><img src="https://github.com/get-icon/geticon/raw/master/icons/laravel.svg" alt="Laravel" width="30px" height="30px"></a>
+<a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="30px" height="30px"></a>
+<a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="30px" height="30px"></a>
+<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="30px" height="30px"></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="30px" height="30px"></a>
+<a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="30px" height="30px"></a>
+<a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="30px" height="30px"></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="30px" height="30px"></a>
+<div align="center">
 
-- 💻 Minha especialização reside no desenvolvimento back-end, onde utilizo principalmente PHP e Laravel para criar soluções robustas.
-- 🗃️ Tenho ampla experiência no trabalho com bancos de dados, incluindo MySQL e PostgreSQL, garantindo que os sistemas sejam eficientes e escaláveis.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karGuimaraes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Colaboração e Oportunidades
+</div>
 
-- 👥 Acredito firmemente no poder da colaboração para alcançar resultados excepcionais. Estou sempre aberta a trabalhar em equipe para enfrentar desafios emocionantes.
-- 🌟 Estou pronta e entusiasmada para embarcar em novos projetos e abraçar oportunidades que me permitam crescer como desenvolvedora e contribuir para soluções inovadoras.
-
-## Contato
-
-- 📬 Você pode entrar em contato comigo através do meu e-mail kagm2047@gmail.com para discutir colaborações, projetos ou apenas para trocar ideias interessantes.
-Estou ansiosa para continuar minha jornada de aprendizado e criação, e mal posso esperar para ver o que o futuro tecnológico reserva! 🚀🔍
-<div>
-<a href="https://instagram.com/kar.guimaraes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+## 📬 Contato
 <a href = "mailto:kagm2047@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/karine-guimaraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>   
-</div>
