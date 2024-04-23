@@ -3,10 +3,8 @@
 Sou apaixonada por desenvolvimento <b>back-end</b>, em 4 anos de experiência atuei com diferentes tecnologias com destaque para <b>Laravel/PHP</b>, <b>Node.js/TypeScript</b>, <b>Spring Boot/java</b> e <b>.net/C#</b>.
 
 ## Sobre Mim
-
-- 🔭 Atualmente tenho 24 anos e moro na cidade de São Paulo.
 - 🎓 Sou formada em Gestão da Tecnologia da Informação, o que me proporcionou uma base sólida em conceitos tecnológicos e de negócios.
-- 📚 Além disso, estou atualmente cursando uma pós-graduação em Ciência de Dados e Big Data, expandindo meus horizontes para o emocionante mundo analítico.
+- 📚 Atualmente cursando uma pós-graduação em Ciência de Dados e Big Data, expandindo meus horizontes para o emocionante mundo analítico.
 - 🚀 Adoro enfrentar desafios e tenho uma paixão por transformar ideias em soluções concretas.
 
 ## 💼 Habilidades & Experiência
