@@ -1,6 +1,6 @@
 # Hello World!
 
-Sou apaixonada por desenvolvimento <b>back-end</b>, em 4 anos de experiência atuei com diferentes tecnologias com destaque para <b>Laravel/PHP</b>, <b>Node.js/TypeScript</b>, <b>Spring Boot/java</b> e <b>.net/C#</b>.
+Atuo como desenvolvedora <b>back-end</b> a 4 anos, nesse período atuei com diferentes tecnologias com destaque para <b>Laravel/PHP</b>, <b>Node.js/TypeScript</b>, <b>Spring Boot/java</b> e <b>.net/C#</b>.
 
 ## Sobre Mim
 - 🎓 Sou formada em Gestão da Tecnologia da Informação, o que me proporcionou uma base sólida em conceitos tecnológicos e de negócios.
