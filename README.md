@@ -1,6 +1,6 @@
 # Hello World!
 
-Atuo como desenvolvedora <b>back-end</b> a 4 anos, nesse período atuei com diferentes tecnologias com destaque para <b>Laravel/PHP</b>, <b>Node.js/TypeScript</b> e <b>.net/C#</b>.
+Engenheira de software com mais de 5 anos de experiência, atuando de forma abrangente em todas as etapas do ciclo de vida de aplicações – do planejamento e definição técnica ao provisionamento de infraestrutura e entrega final. Tenho vivência consolidada em desenvolvimento back-end com Node.js/TypeScript, Java/Spring Boot, Laravel/PHP e integração com serviços na nuvem. 
 
 ## Sobre Mim
 - 🎓 Sou formada em Gestão da Tecnologia da Informação, o que me proporcionou uma base sólida em conceitos tecnológicos e de negócios.
